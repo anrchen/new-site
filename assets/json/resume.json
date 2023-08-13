@@ -67,7 +67,7 @@
     }
   ],
   "volunteer": [],
-  "education": [
+  "omitted_education": [
     {
       "institution": "Concordia University",
       "url": "https://www.concordia.ca/ginacody/electrical-computer-eng.html",
@@ -94,7 +94,7 @@
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
+  "omitted_languages": [
     {
       "language": "French",
       "fluency": "Native speaker"
