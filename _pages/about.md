@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 position: Assistant professor
 subtitle: <a href='#'>University of Alberta</a>, Edmonton, Alberta, Canada
@@ -20,5 +20,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research focuses on improving software quality assurance and reliability practices. I am particularly interested in software engineering topics that include automated debugging, AIOps, program analysis, software testing, and mining software repositories. My work on production failures and automated debugging connect me with the software debugging and testing communities.
+I am an Assistant Professor at the [Electrical and Computer Engineering Department](https://www.ualberta.ca/engineering/electrical-computer-engineering/index.html) of University of Alberta. Prior joining UoA, I obtained my doctoral degree from Concordia University under the supervision of Dr. [Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/). I have extensive professional experience in various companies and organizations including Huawei Technologies, Bank of Canada, Tianjin University, and McGill University.
 
+My research focuses on software engineering topics that include **software debugging**, **software testing**, **AIOps**, program analysis, and mining software repositories. 
