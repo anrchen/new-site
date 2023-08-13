@@ -1,6 +1,16 @@
 {
   "work": [
     {
+      "name": "University of Alberta",
+      "position": "Assistant Professor",
+      "url": "https://www.ualberta.ca/index.html",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Edmonton, Canada",
+      "highlights": [
+      ]
+    },
+    {
       "name": "SPEAR lab, Concordia University",
       "position": "Research Assistant",
       "url": "https://petertsehsun.github.io/",

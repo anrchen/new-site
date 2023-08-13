@@ -2,11 +2,21 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+2021: Concordia University - Teaching Assistant, Montreal, Canada
+<ul>
+  <li>SOEN 341: Software Process (Winter 2021)</li>
+</ul>
+2020: Concordia University - Teaching Assistant, Montreal, Canada
+<ul>
+  <li>SOEN 341: Software Process (Fall 2020, Winter 2020)</li>
+</ul>
+2019: Concordia University - Teaching Assistant, Montreal, Canada
+<ul>
+  <li>SOEN 390: Software Engineering Team Design Project (Winter 2019)</li>
+  <li>SOEN7481: Software Verification and Testing (Fall 2019)</li>
+</ul>

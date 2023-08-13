@@ -22,11 +22,49 @@ strong {
 
 // Customization
 
+.publications ol.bibliography li .abbr {
+  margin-bottom: 0!important;
+}
+
+.publications h2.bibliography {
+  border-top: none!important;
+  display: none!important;
+}
+
+.about_h2 {
+  margin-top: 1em;
+  font-size: 22px;
+}
+
+.navbar-brand .title .font-weight-lighter {
+  font-size: 20px;
+}
+
+figure {
+  margin_right: 1em;
+}
+
+.navbar-nav .nav-item .nav-link {
+  padding-left: .5em;
+  padding-right: .5em;
+}
+
+.profile {
+  display: inline;
+
+  img {
+    width: 8em;
+    margin-right: 1em;
+    border-radius: 2rem!important;
+  }
+}
+
 .cv {
   .row {
     display: flex;
     align-items: center;
     flex-direction: row;
+    border-top: 1px solid var(--global-divider-color);
   }
   .list-group-item {
     background-color: inherit;
@@ -48,10 +86,10 @@ strong {
 }
 
 .post-title {
-  font-size: 20px;
+  font-size: 22px;
   
   span {
-    font-size: 20px;
+    font-size: 22px;
   }
 }
 
@@ -161,7 +199,6 @@ blockquote {
 // Profile
 
 .profile {
-  width: 100%;
 
   .address {
     margin-bottom: 5px;
@@ -185,7 +222,6 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
 
     .address {
       p {
