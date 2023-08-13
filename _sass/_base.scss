@@ -17,7 +17,28 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-size: 18px;
 }
+
+// Customization
+
+.post-title {
+  font-size: 20px;
+  
+  span {
+    font-size: 20px;
+  }
+}
+
+.desc {
+  margin: 0;
+}
+
+.post-header {
+  margin-bottom: 1rem;
+}
+
+// end of customization
 
 hr {
   border-top: 1px solid var(--global-divider-color);
