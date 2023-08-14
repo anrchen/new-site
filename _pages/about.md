@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: /home
 position: Assistant professor
 subtitle: <a href='#'>University of Alberta</a>, Edmonton, Canada
 
