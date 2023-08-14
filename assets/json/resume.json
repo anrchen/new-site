@@ -59,7 +59,9 @@
       "highlights": [
         "Designed and led the development of a Depth-Sensing framework for motion capture.",
         "Designed and led the development of a Virtual Reality and Augmented Reality framework for mobile applications."
-      ]
+      ],
+      "logo": "ccat.png",
+      "resize": "logo_resize"
     },
     {
       "name": "McGill University",

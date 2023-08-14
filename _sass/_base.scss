@@ -21,12 +21,46 @@ strong {
 }
 
 // Customization
+html[data-theme=dark] {
+  .opening{
+    h2 {
+      color: var(--global-bg-color);
+    }
+
+    p {
+      color: var(--global-bg-color);
+    }
+
+    span {
+      color: var(--global-bg-color);
+    }
+  }
+}
+
+.experience-item {
+  width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cv .row {
+  justify-content: center;
+}
+
+.opening {
+  border: dashed 1px var(--global-bg-color);
+  border-color: var(--global-text-color);
+  padding: 10px;
+  background-color: cornsilk;
+}
  
 .card img.logo_resize {
   width: 6em!important;
 }
 
 .card img {
+  margin-bottom: 10px;
   width: 3em!important;
 }
 
@@ -56,8 +90,12 @@ table.table-sm th, table.table-sm td {
   font-size: 22px;
 }
 
-.navbar-brand .title .font-weight-lighter {
+.navbar.navbar-light .navbar-brand {
   font-size: 20px;
+
+  span {
+    font-size: 20px;
+  }
 }
 
 figure {

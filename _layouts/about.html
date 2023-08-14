@@ -37,6 +37,12 @@ layout: default
           </div>
           {%- endif %}
 
+          <!-- Opening -->
+          {% if page.opening and site.opening.enabled -%}
+            <h2 class="about_h2"><a href="{{ '/opening/' | relative_url }}" style="color: inherit;">Opening</a></h2>
+            {%- include opening.html %}
+          {%- endif %}
+
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2 class="about_h2"><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
