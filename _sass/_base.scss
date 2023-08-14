@@ -21,6 +21,26 @@ strong {
 }
 
 // Customization
+ 
+.card img.logo_resize {
+  width: 6em!important;
+}
+
+.card img {
+  width: 3em!important;
+}
+
+ul.items {
+  li {
+    span.item{
+      font-size: 0.95rem;
+    }
+  }
+}
+
+table.table-sm th, table.table-sm td {
+  font-size: 18px;
+}
 
 .publications ol.bibliography li .abbr {
   margin-bottom: 0!important;

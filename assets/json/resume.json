@@ -8,7 +8,9 @@
       "endDate": "Present",
       "summary": "Edmonton, Canada",
       "highlights": [
-      ]
+      ],
+      "logo": "uoa.png",
+      "resize": "logo_resize"
     },
     {
       "name": "SPEAR lab, Concordia University",
@@ -18,7 +20,12 @@
       "endDate": "2023",
       "summary": "Montreal, Canada",
       "highlights": [
-      ]
+        "Conducted research on Large-Language Models (LLM).",
+        "Conducted research on Automated Debugging and Program Analysis.",
+        "Conducted research on software testing and quality assurances in DevOps"
+      ],
+      "logo": "spear.png",
+      "resize": "logo_resize"
     },
     {
       "name": "Huawei Research & Development Center",
@@ -27,7 +34,8 @@
       "endDate": "2022",
       "summary": "Hangzhou, China",
       "highlights": [
-      ]
+      ],
+      "logo": "huawei.png"
     },
     {
       "name": "Tianjin University",
@@ -37,7 +45,10 @@
       "endDate": "2022",
       "summary": "Tianjin, China",
       "highlights": [
-      ]
+        "Conducted research on Regression Testing and Automated Debugging.",
+        "Conducted research on Mining Software Repositories."
+      ],
+      "logo": "tju.png"
     },
     {
       "name": "Canada China Art-Tech",
@@ -46,6 +57,8 @@
       "endDate": "2018",
       "summary": "Montreal, Canada",
       "highlights": [
+        "Designed and led the development of a Depth-Sensing framework for motion capture.",
+        "Designed and led the development of a Virtual Reality and Augmented Reality framework for mobile applications."
       ]
     },
     {
@@ -55,7 +68,10 @@
       "endDate": "2017",
       "summary": "Montreal, Canada",
       "highlights": [
-      ]
+        "Designed and led the development of web applications.",
+        "Maintening, testing and debugging web applications."
+      ],
+      "logo": "mcgill.png"
     },
     {
       "name": "Bank of Canada",
@@ -64,7 +80,10 @@
       "endDate": "2016",
       "summary": "Ottawa, Canada",
       "highlights": [
-      ]
+        "Designed and led the development of web applications.",
+        "Designed and implemented an automated testing framework (Behat and Selenium)."
+      ],
+      "logo": "boc.png"
     },
     {
       "name": "McGill University",
@@ -73,7 +92,10 @@
       "endDate": "2015",
       "summary": "Montreal, Canada",
       "highlights": [
-      ]
+        "Designed and implemented an automated testing framework (Selenium).",
+        "Delivered workshops and tutorials on automated testing frameworks within the IT department."
+      ],
+      "logo": "mcgill.png"
     }
   ],
   "volunteer": [],
