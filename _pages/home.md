@@ -1,6 +1,6 @@
 ---
 layout: redirect
-permalink: /home
+permalink: /home/
 redirect_to:
   - /
 ---
