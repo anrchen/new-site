@@ -7,19 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-I am looking for highly-motived graduate students (Master's or PhD) for Fall 2023 and Winter 2024. If you have proficient programming skills with strong interests in Software Debugging and Testing, AIOps, or Program Analysis, please contact me via email with your CV, transcript, and a brief letter of interest.
-
-**Research Topics** <br>
-- Software Debugging and Testing
-- AIOps and LLM
-- Mining Software Repositories
-- Program Analysis
-
-**Application** <br>
-- A brief letter of interest
-- A CV
-- A transcript
-- Must include the keyword "rum_is_a_cat"
+I am looking for highly-motived graduate students (Master's or PhD) for Fall 2023 and Winter 2024. If you have proficient programming skills with strong interests in Software Debugging and Testing, AIOps, or Program Analysis, please contact me via email with your CV, transcript, and a brief letter of interest. Please make sure to include the keyword "rum_is_a_cat" in your email to make sure it doesn't get filtered as spam.
 
 **Minimum Requirements** 
 - Admission Requirement
