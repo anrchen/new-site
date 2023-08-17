@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 position: Assistant professor
-subtitle: <a href='#'>University of Alberta</a>, Edmonton, Canada
+subtitle: <a href='https://www.ualberta.ca/index.html'>University of Alberta</a>, Edmonton, Canada
 
 profile:
   align: left
