@@ -7,6 +7,7 @@ nav: true
 nav_order: 4
 ---
 
+2024: IEEE SANER Tools Demo Track, program committee member<br />
 2023: ACM SIGSOFT ISSTA Artifact Evaluation, committee member<br />
 2021: IEEE/ACM ICSE, volunteer<br />
 2021: IEEE ICSME, co-reviewer<br />
