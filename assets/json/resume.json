@@ -48,7 +48,23 @@
         "Conducted research on Regression Testing and Automated Debugging.",
         "Conducted research on Mining Software Repositories."
       ],
-      "logo": "tju.png"
+      "logo": "tju.png",
+      "resize": "logo_resize_min"
+    },
+    {
+      "name": "Concordia University",
+      "position": "Teaching Assistant",
+      "url": "https://www.concordia.ca/",
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": "Montreal, Canada",
+      "highlights": [
+        "SOEN341: Software Process",
+        "SOEN 390: Software Engineering Team Design Project",
+        "SOEN7481: Software Verification and Testing"
+      ],
+      "logo": "concordia.png",
+      "resize": "logo_resize_max"
     },
     {
       "name": "Canada China Art-Tech",

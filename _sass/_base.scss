@@ -59,9 +59,19 @@ html[data-theme=dark] {
   width: 6em!important;
 }
 
+.card img.logo_resize_max {
+  width: 7em!important;
+}
+
+
 .card img {
   margin-bottom: 10px;
   width: 3em!important;
+}
+
+.card img.logo_resize_min {
+  margin-bottom: 10px;
+  width: 4em!important;
 }
 
 ul.items {
