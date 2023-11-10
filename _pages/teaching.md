@@ -7,6 +7,9 @@ nav: true
 nav_order: 4
 ---
 
+2024: University of Alberta - Instructor, Edmonton, Canada
+- [ECE 422](https://apps.ualberta.ca/catalogue/course/ece/422): Reliable and Secure Systems Design (Winter 2024)
+
 2021: Concordia University - Teaching Assistant, Montreal, Canada
 - [SOEN 341](https://www.concordia.ca/academics/undergraduate/calendar/current/section-71-gina-cody-school-of-engineering-and-computer-science/section-71-70-department-of-computer-science-and-software-engineering/section-71-70-10-computer-science-and-software-engineering-courses.html#3697): Software Process (Winter 2021)
 
