@@ -7,6 +7,9 @@ nav: true
 nav_order: 4
 ---
 
+2025: University of Alberta - Instructor, Edmonton, Canada
+- [ECE 422](https://apps.ualberta.ca/catalogue/course/ece/422): Reliable and Secure Systems Design (Winter 2025)
+
 2024: University of Alberta - Instructor, Edmonton, Canada
 - [ECE 422](https://apps.ualberta.ca/catalogue/course/ece/422): Reliable and Secure Systems Design (Winter 2024)
 

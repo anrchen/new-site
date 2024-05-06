@@ -7,7 +7,7 @@ subtitle: <a href='https://www.ualberta.ca/index.html'>University of Alberta</a>
 
 profile:
   align: left
-  image: hide_profile.jpeg
+  image: anranchen.jpg
   image_circular: false # crops the image to make it circular
 #   address: >
 #     <p>555 your office number</p>

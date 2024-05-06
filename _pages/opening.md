@@ -7,11 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-SODA Lab @ University of Alberta is looking for highly-motivated MSc and PhD students for
-Fall 2024 and Winter 2025. We have 3 full-time MSc and PhD positions in the Department of
-Electrical and Computer Engineering. These positions will be fully supported by the funding of
-SODA Lab at University of Alberta. Applicants with strong interests in Software Debugging,
-Testing, Analysis, AIOps and LLMs are highly welcome.
+SODA Lab @ University of Alberta is looking for **highly-motivated MSc, PhD students and visiting scholars for
+Fall 2024, Winter and Fall 2025**. We have 1 MSc and 1 PhD positions in the Department of Electrical and Computer Engineering. These positions will be fully supported by the funding of SODA Lab at University of Alberta. Applicants with strong interests in Software Debugging, Testing, Analysis, AIOps and LLMs are highly welcome.
 
 **Research projects:**
 - Quality Assurance in DevOps

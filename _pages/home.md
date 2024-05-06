@@ -2,12 +2,14 @@
 layout: about
 title: About
 permalink: /home/
+redirect_to:
+  - https://anrchen.github.io/
 position: Assistant professor
 subtitle: <a href='#'>University of Alberta</a>, Edmonton, Canada
 
 profile:
   align: left
-  image: hide_profile.jpeg
+  image: anranchen.jpg
   image_circular: false # crops the image to make it circular
 #   address: >
 #     <p>555 your office number</p>
