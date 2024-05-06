@@ -942,6 +942,36 @@ html.transition *:after {
       }
     }
   }
+
+// Language Customization
+
+  .hidden {
+    color: var(--global-theme-color);
+    font-size: 22px;
+    max-height: 0px;
+    overflow: hidden;
+    text-align: justify;
+
+    a.btn{
+      color: var(--global-text-color);
+      border: 1px solid var(--global-text-color);
+      padding-left: 1rem;
+      padding-right: 1rem;
+      padding-top: 0.25rem;
+      padding-bottom: 0.25rem;
+      margin-left: 0;
+
+      &:hover {
+        color: var(--global-theme-color);
+        border-color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .hidden.open {
+    color: var(--global-theme-color);
+    max-height: 100em;
+  }
 }
 
 progress {

@@ -9,6 +9,22 @@ $(document).ready(function() {
     $(this).parent().parent().find(".abstract.hidden.open").toggleClass('open');
   });
   $('a').removeClass('waves-effect waves-light');
+  // add toggle functionality to language buttons
+  $('a.lang_en').click(function() {
+    $(this).parent().parent().find(".lang_en.hidden").toggleClass('open');
+    $(this).parent().parent().find(".lang_fr.hidden.open").toggleClass('open');
+    $(this).parent().parent().find(".lang_ch.hidden.open").toggleClass('open');
+  });
+  $('a.lang_fr').click(function() {
+    $(this).parent().parent().find(".lang_en.hidden.open").toggleClass('open');
+    $(this).parent().parent().find(".lang_fr.hidden").toggleClass('open');
+    $(this).parent().parent().find(".lang_ch.hidden.open").toggleClass('open');
+  });
+  $('a.lang_ch').click(function() {
+    $(this).parent().parent().find(".lang_en.hidden.open").toggleClass('open');
+    $(this).parent().parent().find(".lang_fr.hidden.open").toggleClass('open');
+    $(this).parent().parent().find(".lang_ch.hidden").toggleClass('open');
+  });
 
   // bootstrap-toc
   if($('#toc-sidebar').length){

@@ -40,7 +40,24 @@ layout: default
           <!-- Openings -->
           {% if page.opening and site.opening.enabled -%}
             <h2 class="about_h2"><a href="{{ '/openings/' | relative_url }}" style="color: inherit;">Openings</a></h2>
-            {%- include opening.html %}
+
+            <!-- Hidden abstract block -->
+            <div class="lang_en hidden open">
+              <a class="lang_fr btn z-depth-0" role="button">French</a>
+              <a class="lang_ch btn z-depth-0" role="button">Chinese</a>
+              {% include opening_en.html %}
+            </div>
+            <div class="lang_fr hidden">
+              <a class="lang_en btn z-depth-0" role="button">English</a>
+              <a class="lang_ch btn z-depth-0" role="button">Chinese</a>
+              {% include opening_fr.html %}
+            </div>
+            <div class="lang_ch hidden">
+              <a class="lang_en btn z-depth-0" role="button">English</a>
+              <a class="lang_fr btn z-depth-0" role="button">French</a>
+              {% include opening_ch.html %}
+            </div>
+            
           {%- endif %}
 
           <!-- News -->
