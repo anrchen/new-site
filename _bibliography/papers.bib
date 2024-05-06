@@ -4,6 +4,17 @@
 ---
 ---
 
+@article{rafi2024towards,
+  abbr={FSE},
+  title={Towards Better Graph Neural Neural Network-based Fault Localization Through Enhanced Code Representation},
+  author={Rafi, Md Nakhla and Kim, Dong Jae and Chen, An Ran and Chen, Tse-Hsun and Wang, Shaowei},
+  journal={arXiv preprint arXiv:2404.04496},
+  year={2024},
+  selected={true},
+  pdf={towards-better-graph-neural-network-based-faultlocalization-through-enhanced-code-representation.pdf},
+  abstract={Automatic software fault localization plays an important role in software quality assurance by pinpointing faulty locations for easier debugging. Coverage-based fault localization is a commonly used technique, which applies statistics on coverage spectra to rank faulty code based on suspiciousness scores. However, statistics-based approaches based on formulae are often rigid, which calls for learning-based techniques. Amongst all, Grace, a graph-neural network (GNN) based technique has achieved state-of-the-art due to its capacity to preserve coverage spectra, i.e., test-to-source coverage relationships, as precise abstract syntax-enhanced graph representation, mitigating the limitation of other learning-based technique which compresses the feature representation. However, such representation is not scalable due to the increasing complexity of software, correlating with increasing coverage spectra and AST graph, making it challenging to extend, let alone train the graph neural network in practice. In this work, we proposed a new graph representation, DepGraph, that reduces the complexity of the graph representation by 70% in nodes and edges by integrating interprocedural call graph in the graph representation of the code. Moreover, we integrate additional features – code change information – in the graph as attributes so the model can leverage rich historical project data. We evaluate DepGraph using Defects4j 2.0.0, and it outperforms Grace by locating 20% more faults in Top-1 and improving the Mean First Rank (MFR) and the Mean Average Rank (MAR) by over 50% while decreasing GPU memory usage by 44% and training/inference time by 85%. Additionally, in cross-project settings, DepGraph surpasses the state-of-the-art baseline with a 42% higher Top-1 accuracy, and 68% and 65% improvement in MFR and MAR, respectively. Our study demonstrates DepGraph’s robustness, achieving state-of-the-art accuracy and scalability for future extension and adoption.}
+}
+
 @inproceedings{ma2024llmparser,
   abbr={ICSE},
   title={LLMParser: An Exploratory Study on Using Large Language Models for Log Parsing},
