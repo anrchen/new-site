@@ -8,10 +8,10 @@ nav_order: 4
 ---
 
 2025: University of Alberta - Instructor, Edmonton, Canada
-- [ECE 720](https://apps.ualberta.ca/catalogue/course/ece/720): Advanced Topics in Software Engineering and Intelligent Systems (Fall 2024)
 - [ECE 422](https://apps.ualberta.ca/catalogue/course/ece/422): Reliable and Secure Systems Design (Winter 2025)
 
 2024: University of Alberta - Instructor, Edmonton, Canada
+- [ECE 720](https://apps.ualberta.ca/catalogue/course/ece/720): Advanced Topics in Software Engineering and Intelligent Systems (Fall 2024)
 - [ECE 422](https://apps.ualberta.ca/catalogue/course/ece/422): Reliable and Secure Systems Design ([Winter 2024](/ece422))
 
 2021: Concordia University - Teaching Assistant, Montreal, Canada
